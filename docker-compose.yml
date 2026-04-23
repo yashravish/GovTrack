@@ -1,0 +1,16 @@
+services:
+  db:
+    image: postgres:16-alpine
+    environment:
+      POSTGRES_USER: govtrack
+      POSTGRES_PASSWORD: govtrack
+      POSTGRES_DB: govtrack
+    ports: ['5432:5432']
+    volumes: ['govtrack_pg:/var/lib/postgresql/data']
+    healthcheck:
+      test: ['CMD', 'pg_isready', '-U', 'govtrack']
+      interval: 3s
+      timeout: 3s
+      retries: 10
+volumes:
+  govtrack_pg: {}

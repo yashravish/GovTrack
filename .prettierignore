@@ -1,0 +1,8 @@
+node_modules
+dist
+.expo
+coverage
+pnpm-lock.yaml
+services/api/bin
+services/api/tmp
+.husky/_

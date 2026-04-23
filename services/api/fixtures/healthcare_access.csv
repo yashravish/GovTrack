@@ -1,0 +1,51 @@
+id,title,value,region,date,summary
+HC-001,Primary care clinics per 10k residents,12.3,Alabama,2026-01-01,Synthetic estimate of clinic availability across Alabama.
+HC-002,Primary care clinics per 10k residents,10.9,Alaska,2026-01-01,Synthetic estimate of clinic availability across Alaska.
+HC-003,Primary care clinics per 10k residents,14.1,Arizona,2026-01-01,Synthetic estimate of clinic availability across Arizona.
+HC-004,Primary care clinics per 10k residents,13.7,Arkansas,2026-01-01,Synthetic estimate of clinic availability across Arkansas.
+HC-005,Primary care clinics per 10k residents,15.2,California,2026-01-01,Synthetic estimate of clinic availability across California.
+HC-006,Primary care clinics per 10k residents,11.8,Colorado,2026-01-01,Synthetic estimate of clinic availability across Colorado.
+HC-007,Primary care clinics per 10k residents,12.9,Connecticut,2026-01-01,Synthetic estimate of clinic availability across Connecticut.
+HC-008,Primary care clinics per 10k residents,11.4,Delaware,2026-01-01,Synthetic estimate of clinic availability across Delaware.
+HC-009,Primary care clinics per 10k residents,16.0,Florida,2026-01-01,Synthetic estimate of clinic availability across Florida.
+HC-010,Primary care clinics per 10k residents,12.1,Georgia,2026-01-01,Synthetic estimate of clinic availability across Georgia.
+HC-011,Primary care clinics per 10k residents,11.2,Hawaii,2026-01-01,Synthetic estimate of clinic availability across Hawaii.
+HC-012,Primary care clinics per 10k residents,10.5,Idaho,2026-01-01,Synthetic estimate of clinic availability across Idaho.
+HC-013,Primary care clinics per 10k residents,13.3,Illinois,2026-01-01,Synthetic estimate of clinic availability across Illinois.
+HC-014,Primary care clinics per 10k residents,12.6,Indiana,2026-01-01,Synthetic estimate of clinic availability across Indiana.
+HC-015,Primary care clinics per 10k residents,11.7,Iowa,2026-01-01,Synthetic estimate of clinic availability across Iowa.
+HC-016,Primary care clinics per 10k residents,10.8,Kansas,2026-01-01,Synthetic estimate of clinic availability across Kansas.
+HC-017,Primary care clinics per 10k residents,12.0,Kentucky,2026-01-01,Synthetic estimate of clinic availability across Kentucky.
+HC-018,Primary care clinics per 10k residents,11.5,Louisiana,2026-01-01,Synthetic estimate of clinic availability across Louisiana.
+HC-019,Primary care clinics per 10k residents,13.8,Maine,2026-01-01,Synthetic estimate of clinic availability across Maine.
+HC-020,Primary care clinics per 10k residents,14.6,Maryland,2026-01-01,Synthetic estimate of clinic availability across Maryland.
+HC-021,Primary care clinics per 10k residents,15.0,Massachusetts,2026-01-01,Synthetic estimate of clinic availability across Massachusetts.
+HC-022,Primary care clinics per 10k residents,12.4,Michigan,2026-01-01,Synthetic estimate of clinic availability across Michigan.
+HC-023,Primary care clinics per 10k residents,11.9,Minnesota,2026-01-01,Synthetic estimate of clinic availability across Minnesota.
+HC-024,Primary care clinics per 10k residents,10.7,Mississippi,2026-01-01,Synthetic estimate of clinic availability across Mississippi.
+HC-025,Primary care clinics per 10k residents,11.6,Missouri,2026-01-01,Synthetic estimate of clinic availability across Missouri.
+HC-026,Primary care clinics per 10k residents,10.4,Montana,2026-01-01,Synthetic estimate of clinic availability across Montana.
+HC-027,Primary care clinics per 10k residents,11.1,Nebraska,2026-01-01,Synthetic estimate of clinic availability across Nebraska.
+HC-028,Primary care clinics per 10k residents,12.8,Nevada,2026-01-01,Synthetic estimate of clinic availability across Nevada.
+HC-029,Primary care clinics per 10k residents,13.9,New Hampshire,2026-01-01,Synthetic estimate of clinic availability across New Hampshire.
+HC-030,Primary care clinics per 10k residents,14.4,New Jersey,2026-01-01,Synthetic estimate of clinic availability across New Jersey.
+HC-031,Primary care clinics per 10k residents,12.2,New Mexico,2026-01-01,Synthetic estimate of clinic availability across New Mexico.
+HC-032,Primary care clinics per 10k residents,13.6,New York,2026-01-01,Synthetic estimate of clinic availability across New York.
+HC-033,Primary care clinics per 10k residents,11.3,North Carolina,2026-01-01,Synthetic estimate of clinic availability across North Carolina.
+HC-034,Primary care clinics per 10k residents,10.6,North Dakota,2026-01-01,Synthetic estimate of clinic availability across North Dakota.
+HC-035,Primary care clinics per 10k residents,12.7,Ohio,2026-01-01,Synthetic estimate of clinic availability across Ohio.
+HC-036,Primary care clinics per 10k residents,11.0,Oklahoma,2026-01-01,Synthetic estimate of clinic availability across Oklahoma.
+HC-037,Primary care clinics per 10k residents,13.0,Oregon,2026-01-01,Synthetic estimate of clinic availability across Oregon.
+HC-038,Primary care clinics per 10k residents,14.2,Pennsylvania,2026-01-01,Synthetic estimate of clinic availability across Pennsylvania.
+HC-039,Primary care clinics per 10k residents,13.4,Rhode Island,2026-01-01,Synthetic estimate of clinic availability across Rhode Island.
+HC-040,Primary care clinics per 10k residents,11.4,South Carolina,2026-01-01,Synthetic estimate of clinic availability across South Carolina.
+HC-041,Primary care clinics per 10k residents,10.9,South Dakota,2026-01-01,Synthetic estimate of clinic availability across South Dakota.
+HC-042,Primary care clinics per 10k residents,12.5,Tennessee,2026-01-01,Synthetic estimate of clinic availability across Tennessee.
+HC-043,Primary care clinics per 10k residents,13.1,Texas,2026-01-01,Synthetic estimate of clinic availability across Texas.
+HC-044,Primary care clinics per 10k residents,11.6,Utah,2026-01-01,Synthetic estimate of clinic availability across Utah.
+HC-045,Primary care clinics per 10k residents,14.0,Vermont,2026-01-01,Synthetic estimate of clinic availability across Vermont.
+HC-046,Primary care clinics per 10k residents,13.2,Virginia,2026-01-01,Synthetic estimate of clinic availability across Virginia.
+HC-047,Primary care clinics per 10k residents,12.9,Washington,2026-01-01,Synthetic estimate of clinic availability across Washington.
+HC-048,Primary care clinics per 10k residents,10.8,West Virginia,2026-01-01,Synthetic estimate of clinic availability across West Virginia.
+HC-049,Primary care clinics per 10k residents,12.0,Wisconsin,2026-01-01,Synthetic estimate of clinic availability across Wisconsin.
+HC-050,Primary care clinics per 10k residents,11.5,Wyoming,2026-01-01,Synthetic estimate of clinic availability across Wyoming.

@@ -1,0 +1,32 @@
+{
+  "name": "govtrack",
+  "private": true,
+  "version": "0.1.0",
+  "scripts": {
+    "lint": "pnpm -r --if-present lint",
+    "test": "pnpm -r --if-present test",
+    "format": "prettier --write \"**/*.{ts,tsx,js,json,md,yml,yaml}\"",
+    "format:check": "prettier --check \"**/*.{ts,tsx,js,json,md,yml,yaml}\"",
+    "prepare": "husky"
+  },
+  "devDependencies": {
+    "prettier": "3.3.3",
+    "husky": "9.1.6",
+    "lint-staged": "15.2.10"
+  },
+  "engines": {
+    "node": ">=20.11.0",
+    "pnpm": ">=9.0.0"
+  },
+  "lint-staged": {
+    "*.{ts,tsx,js,json,md}": [
+      "prettier --write"
+    ]
+  },
+  "pnpm": {
+    "overrides": {
+      "@shopify/react-native-skia": "~1.12.4",
+      "react-native-reanimated": "~3.16.1"
+    }
+  }
+}

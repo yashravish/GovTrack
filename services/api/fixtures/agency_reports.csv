@@ -1,0 +1,51 @@
+id,title,value,region,date,summary
+AR-001,Quarterly safety review,42,Department of Transportation,2025-01-15,Synthetic report about operational safety metrics and mitigation actions.
+AR-002,Water quality compliance brief,18,Environmental Protection Agency,2025-01-22,Synthetic compliance summary covering sampling frequency and exceedances.
+AR-003,Clinic access assessment,27,Department of Health,2025-02-05,Synthetic assessment of outpatient access and appointment wait times.
+AR-004,Infrastructure maintenance update,35,Department of Transportation,2025-02-19,Synthetic update on bridge inspections and prioritized repairs.
+AR-005,Air monitoring network status,22,Environmental Protection Agency,2025-03-03,Synthetic status report on monitoring sites and sensor uptime.
+AR-006,Community vaccination progress,30,Department of Health,2025-03-17,Synthetic report summarizing outreach and coverage estimates.
+AR-007,Transit reliability dashboard,16,Department of Transportation,2025-04-01,Synthetic dashboard narrative on on-time performance and service gaps.
+AR-008,Watershed restoration summary,28,Environmental Protection Agency,2025-04-14,Synthetic summary of restoration grants and project milestones.
+AR-009,Rural clinic staffing snapshot,24,Department of Health,2025-04-28,Synthetic snapshot of staffing levels and vacancy rates.
+AR-010,Freight corridor performance,33,Department of Transportation,2025-05-12,Synthetic performance analysis of freight corridors and congestion points.
+AR-011,Industrial emissions overview,20,Environmental Protection Agency,2025-05-26,Synthetic overview of emissions inventories and inspection cadence.
+AR-012,Preventive care utilization note,14,Department of Health,2025-06-09,Synthetic note on utilization patterns across demographics and regions.
+AR-013,Bus fleet electrification plan,40,Department of Transportation,2025-06-23,Synthetic plan outlining timelines, depots, and charging capacity.
+AR-014,Coastal resilience briefing,26,Environmental Protection Agency,2025-07-07,Synthetic briefing on coastal projects and risk reduction scenarios.
+AR-015,Emergency preparedness checklist,19,Department of Health,2025-07-21,Synthetic checklist review for emergency response readiness.
+AR-016,Roadway incident trends,23,Department of Transportation,2025-08-04,Synthetic analysis of incident trends and hotspot mitigation.
+AR-017,Drinking water advisory log,17,Environmental Protection Agency,2025-08-18,Synthetic log summary of advisories and resolution times.
+AR-018,Telehealth adoption report,31,Department of Health,2025-09-01,Synthetic report on telehealth adoption and patient satisfaction.
+AR-019,Station accessibility audit,29,Department of Transportation,2025-09-15,Synthetic audit of elevators, signage, and barrier-free access.
+AR-020,Air toxics screening memo,21,Environmental Protection Agency,2025-09-29,Synthetic memo summarizing screening results and follow-up actions.
+AR-021,School health services update,15,Department of Health,2025-10-13,Synthetic update describing school services and referral pathways.
+AR-022,Rail signal modernization,38,Department of Transportation,2025-10-27,Synthetic modernization overview for signal upgrades and testing phases.
+AR-023,Recycling program outcomes,25,Environmental Protection Agency,2025-11-10,Synthetic outcomes report for municipal recycling participation.
+AR-024,Asthma outreach evaluation,34,Department of Health,2025-11-24,Synthetic evaluation of asthma outreach materials and engagement.
+AR-025,Port throughput summary,12,Department of Transportation,2025-12-08,Synthetic summary of port throughput and seasonal variation.
+AR-026,Pesticide inspection recap,22,Environmental Protection Agency,2025-12-22,Synthetic recap of inspections and corrective action timelines.
+AR-027,Primary care capacity brief,28,Department of Health,2026-01-05,Synthetic brief on primary care capacity and panel sizes.
+AR-028,Winter storm operations,36,Department of Transportation,2026-01-19,Synthetic operations report on winter response and resource deployment.
+AR-029,Greenhouse gas inventory note,19,Environmental Protection Agency,2026-02-02,Synthetic note on inventory methods and scope adjustments.
+AR-030,Foodborne illness summary,24,Department of Health,2026-02-16,Synthetic summary of outbreaks and investigative findings.
+AR-031,Pedestrian safety initiative,27,Department of Transportation,2026-03-02,Synthetic initiative update on crosswalk upgrades and education.
+AR-032,Brownfield remediation update,30,Environmental Protection Agency,2026-03-16,Synthetic update on remediation sites and funding allocations.
+AR-033,Maternal health indicators,20,Department of Health,2026-03-30,Synthetic indicators report highlighting trends and disparities.
+AR-034,Traffic signal timing review,18,Department of Transportation,2026-04-13,Synthetic review of signal timing improvements and travel times.
+AR-035,Stormwater permit status,26,Environmental Protection Agency,2026-04-27,Synthetic permit status for stormwater systems and compliance steps.
+AR-036,Behavioral health access note,32,Department of Health,2026-05-11,Synthetic note describing access barriers and program capacity.
+AR-037,Airport ground transport study,41,Department of Transportation,2026-05-25,Synthetic study of ground transport demand and curb management.
+AR-038,Lead service line progress,23,Environmental Protection Agency,2026-06-08,Synthetic progress report on lead service line replacement.
+AR-039,Chronic disease dashboard,16,Department of Health,2026-06-22,Synthetic dashboard narrative for chronic disease metrics.
+AR-040,Bridge load rating summary,37,Department of Transportation,2026-07-06,Synthetic summary of bridge load ratings and maintenance backlog.
+AR-041,Hazardous waste training memo,14,Environmental Protection Agency,2026-07-20,Synthetic memo on training completion and refresh cadence.
+AR-042,Immunization registry quality,29,Department of Health,2026-08-03,Synthetic report on registry completeness and deduplication.
+AR-043,Transit fare policy options,21,Department of Transportation,2026-08-17,Synthetic options memo for fare structures and equity impacts.
+AR-044,Urban heat island snapshot,33,Environmental Protection Agency,2026-08-31,Synthetic snapshot of heat risk areas and mitigation strategies.
+AR-045,Hospital discharge trends,17,Department of Health,2026-09-14,Synthetic report on discharge trends and readmission signals.
+AR-046,Construction zone safety brief,28,Department of Transportation,2026-09-28,Synthetic brief on work zone safety and enforcement.
+AR-047,Wildfire smoke preparedness,24,Environmental Protection Agency,2026-10-12,Synthetic preparedness guidance related to wildfire smoke events.
+AR-048,Health hotline utilization,13,Department of Health,2026-10-26,Synthetic utilization summary of hotline topics and response time.
+AR-049,Road resurfacing outcomes,31,Department of Transportation,2026-11-09,Synthetic outcomes report on resurfacing and pavement condition.
+AR-050,Environmental justice screening,20,Environmental Protection Agency,2026-11-23,Synthetic screening results to prioritize monitoring and grants.

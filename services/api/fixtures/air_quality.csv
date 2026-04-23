@@ -1,0 +1,51 @@
+id,title,value,region,date,summary
+AQ-001,PM2.5 daily mean (µg/m³),7.8,Los Angeles County CA,2026-02-01,Synthetic PM2.5 reading reported for Los Angeles County CA.
+AQ-002,PM2.5 daily mean (µg/m³),6.1,Orange County CA,2026-02-01,Synthetic PM2.5 reading reported for Orange County CA.
+AQ-003,PM2.5 daily mean (µg/m³),5.4,San Diego County CA,2026-02-01,Synthetic PM2.5 reading reported for San Diego County CA.
+AQ-004,PM2.5 daily mean (µg/m³),4.9,Maricopa County AZ,2026-02-01,Synthetic PM2.5 reading reported for Maricopa County AZ.
+AQ-005,PM2.5 daily mean (µg/m³),3.8,Clark County NV,2026-02-01,Synthetic PM2.5 reading reported for Clark County NV.
+AQ-006,PM2.5 daily mean (µg/m³),4.2,Harris County TX,2026-02-01,Synthetic PM2.5 reading reported for Harris County TX.
+AQ-007,PM2.5 daily mean (µg/m³),4.0,Dallas County TX,2026-02-01,Synthetic PM2.5 reading reported for Dallas County TX.
+AQ-008,PM2.5 daily mean (µg/m³),3.5,Travis County TX,2026-02-01,Synthetic PM2.5 reading reported for Travis County TX.
+AQ-009,PM2.5 daily mean (µg/m³),5.9,Cook County IL,2026-02-01,Synthetic PM2.5 reading reported for Cook County IL.
+AQ-010,PM2.5 daily mean (µg/m³),5.1,Wayne County MI,2026-02-01,Synthetic PM2.5 reading reported for Wayne County MI.
+AQ-011,PM2.5 daily mean (µg/m³),6.6,King County WA,2026-02-01,Synthetic PM2.5 reading reported for King County WA.
+AQ-012,PM2.5 daily mean (µg/m³),5.7,Multnomah County OR,2026-02-01,Synthetic PM2.5 reading reported for Multnomah County OR.
+AQ-013,PM2.5 daily mean (µg/m³),4.4,Denver County CO,2026-02-01,Synthetic PM2.5 reading reported for Denver County CO.
+AQ-014,PM2.5 daily mean (µg/m³),4.1,Miami-Dade County FL,2026-02-01,Synthetic PM2.5 reading reported for Miami-Dade County FL.
+AQ-015,PM2.5 daily mean (µg/m³),4.8,Queens County NY,2026-02-01,Synthetic PM2.5 reading reported for Queens County NY.
+AQ-016,PM2.5 daily mean (µg/m³),5.0,New York County NY,2026-02-01,Synthetic PM2.5 reading reported for New York County NY.
+AQ-017,PM2.5 daily mean (µg/m³),5.2,Kings County NY,2026-02-01,Synthetic PM2.5 reading reported for Kings County NY.
+AQ-018,PM2.5 daily mean (µg/m³),4.6,Suffolk County MA,2026-02-01,Synthetic PM2.5 reading reported for Suffolk County MA.
+AQ-019,PM2.5 daily mean (µg/m³),4.3,Middlesex County MA,2026-02-01,Synthetic PM2.5 reading reported for Middlesex County MA.
+AQ-020,PM2.5 daily mean (µg/m³),3.9,Philadelphia County PA,2026-02-01,Synthetic PM2.5 reading reported for Philadelphia County PA.
+AQ-021,PM2.5 daily mean (µg/m³),6.9,Los Angeles County CA,2026-02-08,Synthetic PM2.5 reading reported for Los Angeles County CA.
+AQ-022,PM2.5 daily mean (µg/m³),5.8,Orange County CA,2026-02-08,Synthetic PM2.5 reading reported for Orange County CA.
+AQ-023,PM2.5 daily mean (µg/m³),5.2,San Diego County CA,2026-02-08,Synthetic PM2.5 reading reported for San Diego County CA.
+AQ-024,PM2.5 daily mean (µg/m³),4.6,Maricopa County AZ,2026-02-08,Synthetic PM2.5 reading reported for Maricopa County AZ.
+AQ-025,PM2.5 daily mean (µg/m³),3.6,Clark County NV,2026-02-08,Synthetic PM2.5 reading reported for Clark County NV.
+AQ-026,PM2.5 daily mean (µg/m³),4.0,Harris County TX,2026-02-08,Synthetic PM2.5 reading reported for Harris County TX.
+AQ-027,PM2.5 daily mean (µg/m³),3.9,Dallas County TX,2026-02-08,Synthetic PM2.5 reading reported for Dallas County TX.
+AQ-028,PM2.5 daily mean (µg/m³),3.4,Travis County TX,2026-02-08,Synthetic PM2.5 reading reported for Travis County TX.
+AQ-029,PM2.5 daily mean (µg/m³),5.5,Cook County IL,2026-02-08,Synthetic PM2.5 reading reported for Cook County IL.
+AQ-030,PM2.5 daily mean (µg/m³),4.9,Wayne County MI,2026-02-08,Synthetic PM2.5 reading reported for Wayne County MI.
+AQ-031,PM2.5 daily mean (µg/m³),6.1,King County WA,2026-02-08,Synthetic PM2.5 reading reported for King County WA.
+AQ-032,PM2.5 daily mean (µg/m³),5.4,Multnomah County OR,2026-02-08,Synthetic PM2.5 reading reported for Multnomah County OR.
+AQ-033,PM2.5 daily mean (µg/m³),4.1,Denver County CO,2026-02-08,Synthetic PM2.5 reading reported for Denver County CO.
+AQ-034,PM2.5 daily mean (µg/m³),3.9,Miami-Dade County FL,2026-02-08,Synthetic PM2.5 reading reported for Miami-Dade County FL.
+AQ-035,PM2.5 daily mean (µg/m³),4.6,Queens County NY,2026-02-08,Synthetic PM2.5 reading reported for Queens County NY.
+AQ-036,PM2.5 daily mean (µg/m³),4.7,New York County NY,2026-02-08,Synthetic PM2.5 reading reported for New York County NY.
+AQ-037,PM2.5 daily mean (µg/m³),4.9,Kings County NY,2026-02-08,Synthetic PM2.5 reading reported for Kings County NY.
+AQ-038,PM2.5 daily mean (µg/m³),4.2,Suffolk County MA,2026-02-08,Synthetic PM2.5 reading reported for Suffolk County MA.
+AQ-039,PM2.5 daily mean (µg/m³),4.0,Middlesex County MA,2026-02-08,Synthetic PM2.5 reading reported for Middlesex County MA.
+AQ-040,PM2.5 daily mean (µg/m³),3.8,Philadelphia County PA,2026-02-08,Synthetic PM2.5 reading reported for Philadelphia County PA.
+AQ-041,PM2.5 daily mean (µg/m³),8.2,Los Angeles County CA,2026-02-15,Synthetic PM2.5 reading reported for Los Angeles County CA.
+AQ-042,PM2.5 daily mean (µg/m³),6.4,Orange County CA,2026-02-15,Synthetic PM2.5 reading reported for Orange County CA.
+AQ-043,PM2.5 daily mean (µg/m³),5.6,San Diego County CA,2026-02-15,Synthetic PM2.5 reading reported for San Diego County CA.
+AQ-044,PM2.5 daily mean (µg/m³),5.1,Maricopa County AZ,2026-02-15,Synthetic PM2.5 reading reported for Maricopa County AZ.
+AQ-045,PM2.5 daily mean (µg/m³),4.0,Clark County NV,2026-02-15,Synthetic PM2.5 reading reported for Clark County NV.
+AQ-046,PM2.5 daily mean (µg/m³),4.5,Harris County TX,2026-02-15,Synthetic PM2.5 reading reported for Harris County TX.
+AQ-047,PM2.5 daily mean (µg/m³),4.3,Dallas County TX,2026-02-15,Synthetic PM2.5 reading reported for Dallas County TX.
+AQ-048,PM2.5 daily mean (µg/m³),3.7,Travis County TX,2026-02-15,Synthetic PM2.5 reading reported for Travis County TX.
+AQ-049,PM2.5 daily mean (µg/m³),6.0,Cook County IL,2026-02-15,Synthetic PM2.5 reading reported for Cook County IL.
+AQ-050,PM2.5 daily mean (µg/m³),5.3,Wayne County MI,2026-02-15,Synthetic PM2.5 reading reported for Wayne County MI.
