@@ -51,7 +51,7 @@ func main() {
 	r.Use(cors.New(cors.Config{
 		AllowOrigins:     cfg.AllowedOrigins,
 		AllowMethods:     []string{"GET", "POST", "DELETE"},
-		AllowHeaders:     []string{"Content-Type", "Authorization", "X-Device-ID"},
+		AllowHeaders:     []string{"Content-Type", "Authorization", "X-Device-ID", "X-Admin-Token"},
 		AllowCredentials: true,
 	}))
 
@@ -93,6 +93,9 @@ func main() {
 
 		bmAuth := v1.Group("/bookmarks", middleware.RequireAuth(database, cfg))
 		bmAuth.POST("/migrate", handlers.MigrateBookmarks(bRepo))
+
+		admin := v1.Group("/admin")
+		admin.POST("/reseed", handlers.Reseed(database, dsRepo, cfg.AdminToken, cfg.FixturesDir))
 	}
 
 	srv := &http.Server{

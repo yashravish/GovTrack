@@ -16,6 +16,8 @@ type Config struct {
 	MagicLinkBaseURL  string
 	JWTSigningKey     string
 	CDCFeedURL        string
+	AdminToken        string
+	FixturesDir       string
 	AllowedOrigins    []string
 	FeedRefreshInterval time.Duration
 }
@@ -30,7 +32,13 @@ func Load() (*Config, error) {
 		MagicLinkBaseURL: strings.TrimSpace(os.Getenv("MAGIC_LINK_BASE_URL")),
 		JWTSigningKey:    strings.TrimSpace(os.Getenv("JWT_SIGNING_KEY")),
 		CDCFeedURL:       strings.TrimSpace(os.Getenv("CDC_FEED_URL")),
+		AdminToken:       strings.TrimSpace(os.Getenv("ADMIN_TOKEN")),
+		FixturesDir:      strings.TrimSpace(os.Getenv("FIXTURES_DIR")),
 		FeedRefreshInterval: 10 * time.Minute,
+	}
+
+	if cfg.FixturesDir == "" {
+		cfg.FixturesDir = "fixtures"
 	}
 
 	if cfg.Port == "" {

@@ -25,6 +25,25 @@ docker compose up
 
 - [x] Phase 1: monorepo scaffolding, formatting, git hooks, CI stubs
 
+## Admin portal (React + Vite)
+
+Lightweight web surface for ops: feed-health dashboard + datasets browser with a
+"Trigger reseed" admin action.
+
+```bash
+cp apps/admin/.env.example apps/admin/.env   # VITE_API_URL defaults to http://localhost:8080
+pnpm --filter @govtrack/admin dev            # http://localhost:5173
+pnpm --filter @govtrack/admin test           # vitest
+pnpm --filter @govtrack/admin lint
+pnpm --filter @govtrack/admin build          # dist/
+```
+
+The reseed button prompts for an admin token on first use and stores it in
+`localStorage` under `govtrack:adminToken`. Set `ADMIN_TOKEN` in
+`services/api/.env` to enable the backend endpoint (`POST /api/v1/admin/reseed`).
+A "Clear admin token" button is provided as the only way to remove it — the
+token is **never** persisted in a cookie.
+
 ## Mobile E2E (Detox)
 
 Detox E2E is **not** run in CI (too expensive). Run it locally.
